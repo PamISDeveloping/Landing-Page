@@ -12,19 +12,18 @@ body {
 }
 
 .header {
-    display: flex;
-    justify-content: space-between;
     color: #E5E7EB;
     background-color: #1F2937;
     font-size: 24px;
 }
 
-ul {
-
+ul { 
+    list-style-type: none;
 }
 
-a {
-
+a { 
+    text-decoration: none;
+    color: #E5E7EB;
 } 
 
 .container-one {
