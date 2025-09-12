@@ -8,11 +8,15 @@
 }
 
 body {
-
+    font-family: Roboto, sans-serif;
 }
 
 .header {
-
+    display: flex;
+    justify-content: space-between;
+    color: #E5E7EB;
+    background-color: #1F2937;
+    font-size: 24px;
 }
 
 ul {
@@ -52,5 +56,5 @@ a {
 }
 
 .footer {
-    
+
 }
