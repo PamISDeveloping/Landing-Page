@@ -53,8 +53,24 @@ a {
 }
 
 .container-three {
+    background-color: #E5E7EB;
+    padding: 100px;
+}
+
+i {
     display: flex;
     align-content: center;
+    justify-content: center;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+}
+
+.author {
+    margin: 15px;
+    color: black;
+    font-weight: 500;
+    text-align: right;
 
 }
 
@@ -63,8 +79,8 @@ a {
     background-color: #3882F6;
     color: white;
     padding: 10px 15px;
-    margin: 20px 25px;
-    border-radius: 15px;
+    margin: 40px 55px;
+    border-radius: 40px;
 }
 
 .sign_up_02 {
