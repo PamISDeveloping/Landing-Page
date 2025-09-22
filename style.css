@@ -56,23 +56,27 @@ a {
 .container-two {
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    margin: 10px 10px;
+    justify-content: center;
 }
 
 .card {
-    margin: 10px;
+    margin: 30px;
 }
 
 img {
-    height: 200px;
-    width: 250px;
-    margin: 10px 15px;
+    height: 170x;
+    width: 155px;
+}
+
+.image_text {
+    margin-top: 5px;
+    max-width: 130px;
 }
 
 .container-three {
     background-color: #E5E7EB;
     padding: 100px;
+    margin-top: 30px;
 }
 
 i {
@@ -93,14 +97,11 @@ i {
 }
 
 .container-four {
-    border: 20px solid;
     background-color: #3882F6;
     color: #E5E7EB;
     margin: 40px 55px;
-    border-radius: 40px;
+    border-radius: 20px;
     padding: 10px 15px;
-    display: flex;
-    justify-content: space-around;
 }
 
 .text_container_four {
